@@ -16,9 +16,10 @@ const client = new TwitterApi({
 Shopeefood Diskon 100% s/d 30rb. Untuk semua resto, akun tertentu aja ✨ 💌
 
 Cek dan klaim disini 👇
-spf.shopee.co.id/8KhjvjySXB
+https://spf.shopee.co.id/136EfQo9H
+https://spf.shopee.co.id/136EfQo9H
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher gacoan daget gojek gratis ongkir thr shopeepay raisa Gary Iskak 
+t. gofood grabfood kode promo go grab shopee food sfood voucher gacoan daget gojek gratis ongkir thr shopeepay senin selasa 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -35,5 +36,6 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher gacoan daget goj
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
